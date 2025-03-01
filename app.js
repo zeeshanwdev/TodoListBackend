@@ -6,7 +6,7 @@ import mongoose from "mongoose"
 import cors from "cors";
 
 
-const port = 5000
+const port = 3000
 // const mongo_url = "mongodb://127.0.0.1:27017/todolist"
 const mongo_url = process.env.MONGO_URL
 
